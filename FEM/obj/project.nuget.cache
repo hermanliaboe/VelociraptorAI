@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rsIzSf3J4A62nWZehxYw/OoR4jAsEkuNc87fXOr1RfPGuCwqnptDetL1xHm6cYzAKOCrUhUx+CpNIH8RKS2ANQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kt\\Source\\Repos\\hermanliaboe\\masters2023\\FEM\\FEM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kt\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\kt\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}
