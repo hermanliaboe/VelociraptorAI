@@ -31,4 +31,4 @@ class FeaStNet(torch.nn.Module):
         x = F.elu(self.fc1(x))
         x = F.dropout(x, training=self.training)
         x = self.fc2(x)
-        return F.log_softmax(x, dim=1)
+        return F.log_softmax(x, dijm=1)
