@@ -1,16 +1,3 @@
-test.py
 .venv
 Newmark
-cudatest.py
-GNN/ArchNN.py
-GNN/data1.txt
-GNN/FeaStNet-master\FeaStNet-master
-GNN/Apr-20ver2.pt
 
-GNN/Apr-21ver1.pt
-
-.gitignore
-GNN/data2.txt
-GNN/data3.txt
-GNN/data4.txt
-GNN/FeaStNet-master/FeaStNet-master/masters2023.code-workspace
