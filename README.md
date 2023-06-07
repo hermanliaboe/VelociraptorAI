@@ -2,6 +2,8 @@
 
 # Files
 
+
+
 VelociraptorAI/TrussGNN 
 
 TrussNN.ipynb: file for training and testing TrussNN model. 
@@ -13,6 +15,7 @@ TrussNN_data_gen.ipynb: TrussNN data generator file.
 /Data: containing different data files. "trussDataObjects2" is the one used for final model. 
 
 /trained_models: containing different trained models and their training loss information. final model: "Jun-01_1TrussGNN_model_early.pt". 
+
 
 
 VelociraptorAI/ArchGNN 
