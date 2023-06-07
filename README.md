@@ -2,7 +2,7 @@
 
 # Files
 
-
+<br/>
 
 VelociraptorAI/TrussGNN 
 
@@ -16,7 +16,7 @@ TrussNN_data_gen.ipynb: TrussNN data generator file.
 
 /trained_models: containing different trained models and their training loss information. final model: "Jun-01_1TrussGNN_model_early.pt". 
 
-
+<br/>
 
 VelociraptorAI/ArchGNN 
 
